@@ -6,7 +6,7 @@
   <link href="https://willsilent.github.io/atom.xml" rel="self"/>
   
   <link href="https://willsilent.github.io/"/>
-  <updated>2021-10-09T11:48:38.044Z</updated>
+  <updated>2021-10-09T12:08:06.712Z</updated>
   <id>https://willsilent.github.io/</id>
   
   <author>
@@ -17,36 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test2</title>
-    <link href="https://willsilent.github.io/2021/10/09/Test2/"/>
-    <id>https://willsilent.github.io/2021/10/09/Test2/</id>
+    <title>Divided Conqur</title>
+    <link href="https://willsilent.github.io/2021/10/09/Divided%20Conqur/"/>
+    <id>https://willsilent.github.io/2021/10/09/Divided%20Conqur/</id>
     <published>2021-10-09T11:48:13.000Z</published>
-    <updated>2021-10-09T11:48:38.044Z</updated>
+    <updated>2021-10-09T12:08:06.712Z</updated>
     
     
     
     
-    <category term="测试" scheme="https://willsilent.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="CS6212" scheme="https://willsilent.github.io/categories/CS6212/"/>
     
     
-    <category term="测试" scheme="https://willsilent.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="算法" scheme="https://willsilent.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
-    <title>Test</title>
-    <link href="https://willsilent.github.io/2021/10/09/Test/"/>
-    <id>https://willsilent.github.io/2021/10/09/Test/</id>
+    <title>Data Structure</title>
+    <link href="https://willsilent.github.io/2021/10/09/Data%20Structure/"/>
+    <id>https://willsilent.github.io/2021/10/09/Data%20Structure/</id>
     <published>2021-10-09T11:43:55.000Z</published>
-    <updated>2021-10-09T11:48:48.685Z</updated>
+    <updated>2021-10-09T12:07:20.929Z</updated>
     
     
     
     
-    <category term="测试" scheme="https://willsilent.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    <category term="CS6212" scheme="https://willsilent.github.io/categories/CS6212/"/>
     
     
-    <category term="测试" scheme="https://willsilent.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="算法" scheme="https://willsilent.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
